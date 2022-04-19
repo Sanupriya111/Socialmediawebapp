@@ -1,0 +1,30 @@
+.middiv
+{
+    
+    margin-top: 10px;
+    width: 90%;
+      height: 550px;
+     margin-left: 60px;
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+      border-radius: 20px;
+  }
+  .p{
+      margin-left: 30px;
+  }
+.h6{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.div2{
+  margin-left: 50px;  
+}
+.div3{
+    display: flex;
+    margin-top:30px;
+  }
+  
+.img1{
+    height: 400px;
+width: 90%;
+margin-right: 20px;
+}

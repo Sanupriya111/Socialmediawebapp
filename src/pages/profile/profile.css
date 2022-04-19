@@ -1,0 +1,23 @@
+.prof{
+    width: 100%;
+    height: 304px;
+    background-image: url('../../../public/assets/image3.jpg');
+    background-repeat:no-repeat;
+    background-size: 100%100%;
+overflow:auto;
+    
+}
+.profimg{
+height: 150px;
+width: 150px;
+border-radius: 50px;
+border-color: aliceblue;
+border-width: thin;
+
+margin-top: -30;
+
+}
+.div1{
+    margin-left: 450px;
+    margin-top: -96px;
+}

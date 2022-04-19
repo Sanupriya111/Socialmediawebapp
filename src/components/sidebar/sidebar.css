@@ -1,0 +1,11 @@
+.sidebar{
+    display: flex;
+    margin-left: 20px;
+    border-right-style: solid ;
+border-color: lightslategray;
+width:100%;
+
+}
+.p{
+    margin-left: 20px;
+}
